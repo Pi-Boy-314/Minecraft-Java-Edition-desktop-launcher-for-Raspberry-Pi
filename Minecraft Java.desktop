@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Minecraft Java (insert verison name here)
+Comment=Runs Minecraft Java Edition
+Icon=(Change this to match your own file path to a minecraft logo)
+Exec=lxterminal -t "Minecraft Java" --working-directory=/home/pi/ -e (insert path to the .sh file that runs it here)
+Type=Application
+Encoding=UTF-8
+Terminal=true
+Categories=None;
+Name[en_US]=Minecraft Java
+StartupNotify=false
+Path=/home/pi/ -e (insert path to the .sh file that runs it here)
