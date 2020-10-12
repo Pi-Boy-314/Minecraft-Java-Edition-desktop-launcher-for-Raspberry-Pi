@@ -15,3 +15,6 @@ Categories=None;
 Name[en_US]=Minecraft Java
 StartupNotify=false
 Path=/home/pi/ -e /home/pi/Minecraft/runMC1_16_1_OptifineG2pre.sh
+
+
+
